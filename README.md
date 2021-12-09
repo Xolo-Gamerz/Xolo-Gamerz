@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xolo-gamerz&show_icons=true&locale=en" alt="xolo-gamerz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xolo-gamerz&" alt="xolo-gamerz" /></p>
+<a href="https://app.daily.dev/Xolo"><img src="https://api.daily.dev/devcards/b5a4eedaa77a46bfba9a8c622ec2b01b.png?r=kdb" width="400" alt="Xolo's Dev Card"/></a>

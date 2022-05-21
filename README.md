@@ -15,7 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on A Discord.js multi purpose bot.
+- 🔭 I’m currently working on a fullstack notes+music website.
 
 - 🌱 I’m currently learning Vue.js, Svelte.js
 

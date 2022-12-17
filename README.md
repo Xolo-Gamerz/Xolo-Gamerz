@@ -40,5 +40,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xolo-gamerz&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolo-gamerz&theme=dark&size=100 "/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xolo-Gamerz&show_icons=true&theme=radical"/>
 </a>
